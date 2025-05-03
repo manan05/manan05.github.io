@@ -104,7 +104,7 @@ function scrollToContact() {
 }
 
 function downloadResume() {
-  var resumeLink = "https://drive.google.com/file/d/1aTGROr6emidyFGtvfb85IqDYMRgqd8UP/view?usp=drive_link";
+  var resumeLink = "";
   window.open(resumeLink, "_blank");
 }
 
