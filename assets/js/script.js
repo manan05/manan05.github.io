@@ -104,7 +104,7 @@ function scrollToContact() {
 }
 
 function downloadResume() {
-  var resumeLink = "";
+  var resumeLink = "https://www.linkedin.com/in/manan05/";
   window.open(resumeLink, "_blank");
 }
 
